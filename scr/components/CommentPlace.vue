@@ -2,6 +2,8 @@
   <div class='comment'>
      
         <h3>
+
+            Коментарии
             <form @submit.prevent>
             <input v-bind:value="title" 
             class="input" 

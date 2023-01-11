@@ -12,7 +12,7 @@
   </button>
     <router-link :to="{ name: 'Rent'}"> 
      <button class="check" @click="addToRent"  >
-  <img src="@/assets/img/check-mark.svg" alt="Delete" color=white />
+  <img src="@/assets/img/check-mark.svg" alt="Арендовать" color=white />
      </button>
     </router-link> 
   

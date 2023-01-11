@@ -6,7 +6,7 @@
           <h1 class='logo'>CoworkingTime</h1>
         </a>
         
-          <img class="Userlogo" src="@/assets/img/user.svg" alt="UserLogo" >
+          <img class="Userlogo" src="../assets/img/user.svg" alt="UserLogo" >
           <h3>User_1</h3>
       </div>
      <div class="search-field">

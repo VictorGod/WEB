@@ -3,6 +3,8 @@
      <router-link :to="{ name: 'Cart'}"> 
     <button class="btn--primary addTask">Корзина:{{CART.length}}</button>
     </router-link>
+           <a href=http://localhost:8080/db.json>
+           Информация</a>
     <SelectPlace
       :selected="selected"
       :options="Categories"

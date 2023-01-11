@@ -6,6 +6,8 @@
           <router-link :to="{ name: 'Catolog'}"> 
           <button class="btn--primary addTask" @click="addToCart" >Там где тебе это удобно</button>
           </router-link>
+           <a href=http://localhost:8080/db.json>
+           Информация</a>
 </p>
         </h2>
 				

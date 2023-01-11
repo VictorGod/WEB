@@ -32,10 +32,10 @@
     
     
     <button class="pencil" @click="addToCart" >
-      <img src="@/assets/img/cart.svg" alt="Edit" />
+      <img src="@/assets/img/cart.svg" alt="Добавит в корзину" />
     </button>
     <button class="check" @click="showModalInfo" >
-      <img src="@/assets/img/zoom-in.svg" alt="Edit" />
+      <img src="@/assets/img/zoom-in.svg" alt="Информация" />
     </button>
     
 
